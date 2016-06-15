@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails CoolTycoon: test" uuid="9d090c13-6180-4c27-870c-efde5f7ff4cc" />
+    <data-source name="Rails CoolTycoon: development" uuid="adb816b4-2be5-4061-a3a1-4296b75f60f5">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails CoolTycoon: production" uuid="ec4f3cc9-6891-4c7e-9189-ad7ae5a1ab18">
+      <user-name>CoolTycoon</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe9dfe5dfe5dfe6dffedff3dfe9dfe5dfe5dfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>

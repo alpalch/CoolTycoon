@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails CoolTycoon: test" uuid="9d090c13-6180-4c27-870c-efde5f7ff4cc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails CoolTycoon: development" uuid="adb816b4-2be5-4061-a3a1-4296b75f60f5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails CoolTycoon: production" uuid="ec4f3cc9-6891-4c7e-9189-ad7ae5a1ab18">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
