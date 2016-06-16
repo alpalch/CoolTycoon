@@ -25,7 +25,7 @@ ActiveRecord::Schema.define(version: 20160615155057) do
 
   create_table "factories", force: :cascade do |t|
     t.string   "name",       default: ""
-    t.string   "type",       default: ""
+    t.string   "kind",       default: ""
     t.integer  "company_id"
     t.datetime "created_at",              null: false
     t.datetime "updated_at",              null: false
